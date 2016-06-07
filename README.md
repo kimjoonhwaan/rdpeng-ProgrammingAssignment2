@@ -1,7 +1,3 @@
-
-
-
-
 <!DOCTYPE html>
 <html lang="en" class=" is-copy-enabled is-u2f-enabled">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
@@ -151,7 +147,7 @@
 
   <li class="header-nav-item dropdown js-menu-container">
     <a class="header-nav-link tooltipped tooltipped-s js-menu-target" href="/new"
-       aria-label="Create newâ€¦"
+       aria-label="Create new?€?"
        data-ga-click="Header, create new, icon:add">
       <svg aria-hidden="true" class="octicon octicon-plus left" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"></path></svg>
       <span class="dropdown-caret"></span>
@@ -470,7 +466,7 @@
               <a href="#" data-tab-filter="branches" data-filter-placeholder="Filter branches/tags" class="js-select-menu-tab" role="tab">Branches</a>
             </li>
             <li class="select-menu-tab">
-              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tagâ€¦" class="js-select-menu-tab" role="tab">Tags</a>
+              <a href="#" data-tab-filter="tags" data-filter-placeholder="Find a tag?€?" class="js-select-menu-tab" role="tab">Tags</a>
             </li>
           </ul>
         </div>
